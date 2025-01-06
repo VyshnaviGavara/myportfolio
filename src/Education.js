@@ -14,10 +14,10 @@ const Education = () => {
         <div className="details">
           <div>
             <h3>Saint Louis University, St. Louis, Missouri</h3>
-            <p><em>Jan 2022 - Present</em></p>
+            <p><em>Jan 2023 - May2025</em></p>
             <p>Master of Science in Computer Science</p>
             <h3>Jawaharlal Nehru Technological University - Telangana, India</h3>
-            <p><em>Jan 2022 - Present</em></p>
+            <p><em>Aug 2018 - June 2022</em></p>
             <p>Bachelor of Engineering in Information Technology GPA-7.1/10.0</p>
           </div>
         </div>
